@@ -17,4 +17,6 @@ Pre-Work
 - Task 3:Total Reviews per Category (Rows:Product name, Values:rating_count{set tto average})
 - Task 4: Products with highestt Ratings
 - Task 5: Average Actual Price vs Discounted Price by Category
- and so on    
+ and so on.
+expect more project from me[Amazon case study.pdf](https://github.com/user-attachments/files/21323582/Amazon.case.study.pdf)
+    
